@@ -8,5 +8,5 @@ spec:
       uri: "http://localhost:3000/Malek/Web-app-backend.git"
   strategy:
     jenkinsPipelineStrategy:
-      jenkinsfilePath: jenkinfile
+      jenkinsfilePath: jenkinsfile
 
